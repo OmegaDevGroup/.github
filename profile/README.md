@@ -1,2 +1,2 @@
-# ⟢The OMEGA Group⟢ | Est. 2021
+# Ω The Omega Group Ω | Est. 2021
 Introducing programming and development from out of this world...

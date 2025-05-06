@@ -1,1 +1,2 @@
-# ✴️ Omega Development Group ✴️
+# ⟢The OMEGA Group⟢ | Est. 2021
+Introducing development from out of this world...

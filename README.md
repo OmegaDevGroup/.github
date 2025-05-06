@@ -1,1 +1,1 @@
-# .github
+# Omega Dev Group

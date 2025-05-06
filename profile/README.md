@@ -13,9 +13,9 @@
 
 # 🌐 Members & Affiliates 👾
 - TheGigaDev | NYC | Frontend (html, css, js) Backend (php, nodejs, typescript, csharp, python)
-- Indigitals | Chicago | Frontend (html, css, js) Backend (php, nodejs, java, python)
+- Indigitals | Jamaica | Frontend (html, css, js) Backend (php, nodejs, java, python, C, Rust, C++)
 
 # ❓ Business Enquiries 💬
-Contact gigadev.max@gmail.com for any business enquiries or commissions. Requests will also be
+Contact omegadevhelp@proton.me for any business enquiries or commissions. Requests will also be
 accepted via our website in the future. Portfolio will be available on our website (COMING SOON!).
 ***

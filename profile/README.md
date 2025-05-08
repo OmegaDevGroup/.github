@@ -12,9 +12,10 @@
 - [x] Commissioned website: https://senexchange.org/
 - [x] Contributed to: https://pypi.org/project/selfcord.py/
 - [ ] OmegaDevGroup website
+
 <div>
   
-  ![Omega Development Group](https://img.shields.io/badge/Omega-Development-blue?style=for-the-badge&logo=github)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Omega Development Group](https://img.shields.io/badge/Omega-Development-blue?style=for-the-badge&logo=github)
 
 </div>
 

@@ -1,127 +1,24 @@
-# <div align="center">🚀 Omega Development Group 🚀</div>
+***
+# | Ω The Omega Group Ω | Est. 2021 |
+<img src="https://camo.githubusercontent.com/957a78ed3fa5213b270c6ee67d9112a07fbbd01452a84f50b3868957c6416c03/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3039363944412663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d4275696c64696e672b7468652b7765622b6f662b746f6d6f72726f773b4372616674696e672b6469676974616c2b657870657269656e6365733b5475726e696e672b69646561732b696e746f2b7265616c697479"/>
 
-<div align="center">
-  
-  ![Omega Development Group](https://img.shields.io/badge/Omega-Development-blue?style=for-the-badge&logo=github)
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Building+the+web+of+tomorrow;Crafting+digital+experiences;Turning+ideas+into+reality" alt="Typing SVG" />
-  </p>
+***
 
-</div>
+![logo](files/omega.jpg)
+[![](https://skillicons.dev/icons?i=html,css,php,js,nodejs,typescript,java,py,cs,git,github,unity)](https://skillicons.dev)
+***
 
-## 👨‍💻 Who We Are
+# 📊 Projects & Contributions 📈
+- [x] Commissioned website: https://senexchange.org/
+- [x] Contributed to: https://pypi.org/project/selfcord.py/
+- [ ] OmegaDevGroup website
+<img src="https://komarev.com/ghpvc/?username=OmegaDevGroup&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
-<div align="center">
-  <p>We are a passionate web development team focused on creating innovative digital solutions. Our expertise spans across modern web technologies, cryptocurrency platforms, and developer tools.</p>
-</div>
+# 🌐 Members & Affiliates 👾
+- TheGigaDev | NYC | Frontend (Html, Css, Javascript) Backend (Php, Nodejs, Typescript, Csharp, Python)
+- Indigitals | Jamaica | Frontend (Html, Css, Javascript) Backend (Php, Nodejs, Java, Python, C, Rust, C++)
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/TheGigaDev">
-        <img src="https://img.shields.io/badge/GitHub-TheGigaDev-181717?style=for-the-badge&logo=github" alt="TheGigaDev"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/indigitals">
-        <img src="https://img.shields.io/badge/GitHub-indigitals-181717?style=for-the-badge&logo=github" alt="indigitals"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 🌟 Our Projects
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Projects-Featured-orange?style=for-the-badge" alt="Featured Projects"/>
-</div>
-
-### <img src="https://img.shields.io/badge/-Commissioned-success" alt="Commissioned"/> [Sen Exchange](https://senexchange.org/)
-
-<div align="center">
-  <p>A fast and secure cryptocurrency exchange platform with support for 50,000+ currency pairs.</p>
-  
-  <img src="https://img.shields.io/badge/Crypto-Exchange-yellow?style=flat-square&logo=bitcoin" alt="Crypto Exchange"/>
-  <img src="https://img.shields.io/badge/Anonymous-Trading-blue?style=flat-square&logo=privacy" alt="Anonymous Trading"/>
-</div>
-
-### <img src="https://img.shields.io/badge/-Contributed-blueviolet" alt="Contributed"/> [selfcord.py](https://pypi.org/project/selfcord.py/)
-
-<div align="center">
-  <p>A powerful Python library for Discord selfbots with modern async/await syntax.</p>
-  
-  <img src="https://img.shields.io/badge/Python-Library-3776AB?style=flat-square&logo=python" alt="Python Library"/>
-  <img src="https://img.shields.io/badge/Discord-API-5865F2?style=flat-square&logo=discord" alt="Discord API"/>
-</div>
-
-### <img src="https://img.shields.io/badge/-In%20Progress-important" alt="In Progress"/> OmegaDevGroup Website
-
-<div align="center">
-  <p>Our official website showcasing our services and portfolio (coming soon).</p>
-  
-  <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="In Development"/>
-</div>
-
-## 💻 Technologies We Love
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  </p>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmegaDevGroup&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-## 🔗 Connect With Us
-
-<div align="center">
-  <a href="mailto:contact@omegadevgroup.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/OmegaDevGroup">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://trello.com/b/y7ucnZB9/projects">
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmegaDevGroup&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  
-  ### ✨ Let's build something amazing together! ✨
-  
-</div>
-
----
-
-<div align="center">
-  <sub>© 2023 Omega Development Group. All rights reserved.</sub>
-</div>
+# ❓ Business Enquiries 💬
+Contact omegadevhelp@proton.me for any business enquiries or commissions. Requests will also be
+accepted via our website in the future. Portfolio will be available on our website (COMING SOON!).
+***

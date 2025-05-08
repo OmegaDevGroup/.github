@@ -12,7 +12,11 @@
 - [x] Commissioned website: https://senexchange.org/
 - [x] Contributed to: https://pypi.org/project/selfcord.py/
 - [ ] OmegaDevGroup website
-<img src="https://komarev.com/ghpvc/?username=OmegaDevGroup&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<div>
+  
+  ![Omega Development Group](https://img.shields.io/badge/Omega-Development-blue?style=for-the-badge&logo=github)
+
+</div>
 
 # 🌐 Members & Affiliates 👾
 - TheGigaDev | NYC | Frontend (Html, Css, Javascript) Backend (Php, Nodejs, Typescript, Csharp, Python)
